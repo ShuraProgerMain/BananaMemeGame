@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3653aa0944031784f972352f6f717997, type: 3}
+  m_Name: DefaultEnemy
+  m_EditorClassIdentifier: 
+  <CharacterData>k__BackingField:
+    <Health>k__BackingField: 7.58
+    <Armor>k__BackingField: 6.33
+    <MoveSpeed>k__BackingField: 9.15
+  <CharacterPresentationData>k__BackingField: {fileID: -6152537790354603848, guid: 54656019497457f4992f0fc1bea18ca3,
+    type: 3}
